@@ -1,0 +1,10 @@
+bmewburn.vscode-intelephense-client
+ChakrounAnas.turbo-console-log
+dbaeumer.vscode-eslint        
+donjayamanne.githistory       
+eamodio.gitlens
+octref.vetur
+onecentlin.laravel-blade      
+sdras.vue-vscode-snippets     
+wix.vscode-import-cost        
+zhuangtongfa.material-theme

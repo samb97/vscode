@@ -1,0 +1,13 @@
+{
+    "composer.executablePath": "C:\\composer\\composer.bat",
+    "window.zoomLevel": 0,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "workbench.colorTheme": "One Dark Pro",
+    "editor.fontFamily": "JetBrains Mono, 'Courier New', monospace",
+    "editor.lineHeight": 22,
+    "explorer.compactFolders": false,
+    "files.exclude": {
+        "**/.git": false
+    },
+    "workbench.tree.indent": 12
+}
